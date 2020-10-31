@@ -12,9 +12,25 @@
     float:left;
 }
 .side-img{
-    width: 60%;
-    padding-left: 25% ;
+    width: ;
+    height: ;
+    padding-left: % ;
+    padding-top: %;
+    border : ;
+}
+#img-right{
+    width: 300px;
+    height: 250px;
+    padding-left: 20% ;
     padding-top: 10%;
+    borde : 3px solid #8845f4;
+}
+#img-left{
+    width: 300px;
+    height: 250px;
+    padding-left: 20% ;
+    padding-top: 10%;
+    borde : 3px solid #8845f4;
 }
 .primary-btn{
     color: white;
@@ -29,4 +45,14 @@ h1{
 .container{
     padding: 5%;
     display: inline-block;
+}
+.experiences{
+    padding:30px;
+    margin: 30px;
+    background-color: rgb(238,251,255);
+    border-radius: 20px;
+}
+.experience-item{
+    padding: 10px;
+    border-left: 1px rgba(137,130,247.2);
 }
